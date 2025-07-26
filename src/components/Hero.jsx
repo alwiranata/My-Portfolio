@@ -14,7 +14,7 @@ const Hero = () => {
 					data-aos-delay='1200'
 					className='absolute h-full md:w-4/12 w-8/12 top-0  right-0 bg-primaryLinear bottom-0 -z-10'
 				>
-					<h1 className='absolute rotate-90 top-[27%] right-[-40%] md:top-[40%] md:right-[-48%] text-[#EAF2FA]'>
+					<h1 className='absolute rotate-90 top-[25%] right-[-40%] md:top-[40%] md:right-[-48%] text-[#EAF2FA]'>
 						{hero.firstName}{" "}
 						<span className='text-dark_primary'>{hero.LastName}</span>
 					</h1>
