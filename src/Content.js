@@ -42,7 +42,7 @@ import codingstudio from "./assets/images/Testimonials/codingstudio.jpg"
 import nusacodes from "./assets/images/Testimonials/nusacodes.jpg"
 import wpu from "./assets/images/Testimonials/wpu.jpg"
 import codepolitan from "./assets/images/Testimonials/codepolitan.jpg"
-import imphnen from "./assets/images/Testimonials/imphnen.jpg"
+import imphnen from "./assets/images/Testimonials/imphne.jpg"
 import intern_id from "./assets/images/Testimonials/intern_id.jpg"
 
 // import icons from react-icons
@@ -74,7 +74,7 @@ export const content = {
 			icon: MdOutlinePermContactCalendar,
 		},
 	],
-	hero: {
+	hero:{
 		title: "SOFTWARE DEVELOPER",
 		firstName: "ALDO",
 		LastName: "WIRANATA",
