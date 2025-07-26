@@ -58,7 +58,7 @@ const Hero = () => {
 				</div>
 
 				{/* sec col */}
-				<div className='md:h-[28rem] h-72'>
+				<div className='md:h-[28rem] h-80'>
 					<img
 						src={hero.image}
 						data-aos='slide-up'
