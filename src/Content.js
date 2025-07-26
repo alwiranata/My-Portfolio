@@ -30,6 +30,7 @@ import eShop from "./assets/images/projects/eShop.png"
 import ui from "./assets/images/projects/ui.png"
 import fixbug from "./assets/images/projects/fixbug.png"
 import laundryApi from "./assets/images/projects/laundryapi.png"
+import portfolio from "./assets/images/projects/portfolio.png"
 import person_project from "./assets/images/projects/person.png"
 import github from "./assets/images/projects/github.png"
 import ig from "./assets/images/projects/ig.png"
@@ -251,6 +252,11 @@ export const content = {
 				title:"Laundry API",
 				image: laundryApi,
 				url : "https://github.com/alwiranata/Web-Laundry/tree/main/backend"
+			},
+			{
+				title:"Profile",
+				image: portfolio,
+				url : "https://github.com/alwiranata/My-Portfolio.git"
 			}
 		],
 	},
