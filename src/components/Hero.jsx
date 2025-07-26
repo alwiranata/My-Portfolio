@@ -14,7 +14,7 @@ const Hero = () => {
 					data-aos-delay='1200'
 					className='absolute h-full md:w-4/12 w-8/12 top-0  right-0 bg-primaryLinear bottom-0 -z-10'
 				>
-					<h1 className='rotate-90 absolute top-[28%] right-[-35%] text-[#EAF2FA]'>
+					<h1 className='absolute rotate-90 top-[27%] md:top-[30%] right-[-40%] text-[#EAF2FA]'>
 						{hero.firstName}{" "}
 						<span className='text-dark_primary'>{hero.LastName}</span>
 					</h1>
@@ -58,7 +58,7 @@ const Hero = () => {
 				</div>
 
 				{/* sec col */}
-				<div className='md:h-[26rem] h-80'>
+				<div className='md:h-[36rem] h-96'>
 					<img
 						src={hero.image}
 						data-aos='slide-up'
