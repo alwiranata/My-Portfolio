@@ -24,7 +24,7 @@ import services_logo1 from "./assets/images/Services/logo1.png"
 import services_logo2 from "./assets/images/Services/logo2.png"
 import services_logo3 from "./assets/images/Services/logo3.png"
 
-import ai from "./assets/images/projects/ai.jpg"
+import ai from "./assets/images/projects/ai.png"
 import laundry from "./assets/images/projects/laundry.png"
 import eShop from "./assets/images/projects/eShop.png"
 import ui from "./assets/images/projects/ui.png"
