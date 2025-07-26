@@ -89,7 +89,7 @@ export const content = {
 				text: "Software Developer Experience",
 			},
 			{
-				count: "6+",
+				count: "7+",
 				text: "Projects Worked in my career",
 			},
 		],
